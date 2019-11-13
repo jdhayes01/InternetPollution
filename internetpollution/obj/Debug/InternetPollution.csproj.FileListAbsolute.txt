@@ -1,0 +1,21 @@
+C:\Users\James Hayes\Dropbox\YSU\YSU(F18)\SoftwareEngineering\InternetPollution\InternetPollution\InternetPollution\bin\Debug\InternetPollution.exe.config
+C:\Users\James Hayes\Dropbox\YSU\YSU(F18)\SoftwareEngineering\InternetPollution\InternetPollution\InternetPollution\bin\Debug\InternetPollution.exe
+C:\Users\James Hayes\Dropbox\YSU\YSU(F18)\SoftwareEngineering\InternetPollution\InternetPollution\InternetPollution\bin\Debug\InternetPollution.pdb
+C:\Users\James Hayes\Dropbox\YSU\YSU(F18)\SoftwareEngineering\InternetPollution\InternetPollution\InternetPollution\obj\Debug\InternetPollution.csprojAssemblyReference.cache
+C:\Users\James Hayes\Dropbox\YSU\YSU(F18)\SoftwareEngineering\InternetPollution\InternetPollution\InternetPollution\obj\Debug\InternetPollution.csproj.CoreCompileInputs.cache
+C:\Users\James Hayes\Dropbox\YSU\YSU(F18)\SoftwareEngineering\InternetPollution\InternetPollution\InternetPollution\obj\Debug\InternetPollution.exe
+C:\Users\James Hayes\Dropbox\YSU\YSU(F18)\SoftwareEngineering\InternetPollution\InternetPollution\InternetPollution\obj\Debug\InternetPollution.pdb
+C:\Users\James Hayes\Dropbox\YSU\YSU(F18)\SoftwareEngineering\InternetPollutionProject\InternetPollution\InternetPollution\bin\Debug\InternetPollution.exe.config
+C:\Users\James Hayes\Dropbox\YSU\YSU(F18)\SoftwareEngineering\InternetPollutionProject\InternetPollution\InternetPollution\bin\Debug\InternetPollution.exe
+C:\Users\James Hayes\Dropbox\YSU\YSU(F18)\SoftwareEngineering\InternetPollutionProject\InternetPollution\InternetPollution\bin\Debug\InternetPollution.pdb
+C:\Users\James Hayes\Dropbox\YSU\YSU(F18)\SoftwareEngineering\InternetPollutionProject\InternetPollution\InternetPollution\obj\Debug\InternetPollution.csprojAssemblyReference.cache
+C:\Users\James Hayes\Dropbox\YSU\YSU(F18)\SoftwareEngineering\InternetPollutionProject\InternetPollution\InternetPollution\obj\Debug\InternetPollution.csproj.CoreCompileInputs.cache
+C:\Users\James Hayes\Dropbox\YSU\YSU(F18)\SoftwareEngineering\InternetPollutionProject\InternetPollution\InternetPollution\obj\Debug\InternetPollution.exe
+C:\Users\James Hayes\Dropbox\YSU\YSU(F18)\SoftwareEngineering\InternetPollutionProject\InternetPollution\InternetPollution\obj\Debug\InternetPollution.pdb
+C:\Users\James\Documents\YSU\COF_Project\InternetPollution\InternetPollution\bin\Debug\InternetPollution.exe.config
+C:\Users\James\Documents\YSU\COF_Project\InternetPollution\InternetPollution\bin\Debug\InternetPollution.exe
+C:\Users\James\Documents\YSU\COF_Project\InternetPollution\InternetPollution\bin\Debug\InternetPollution.pdb
+C:\Users\James\Documents\YSU\COF_Project\InternetPollution\InternetPollution\obj\Debug\InternetPollution.csprojAssemblyReference.cache
+C:\Users\James\Documents\YSU\COF_Project\InternetPollution\InternetPollution\obj\Debug\InternetPollution.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\YSU\COF_Project\InternetPollution\InternetPollution\obj\Debug\InternetPollution.exe
+C:\Users\James\Documents\YSU\COF_Project\InternetPollution\InternetPollution\obj\Debug\InternetPollution.pdb
